@@ -2,6 +2,7 @@
 This Python script scrapes Twitter profiles for Bio, Following Count, Followers Count, Location, and Website using Selenium. The extracted data is saved to a CSV file for analysis.
 
 🚀 Features
+
 ✔️ Headless browser for efficiency
 
 ✔️ Error handling for missing fields
@@ -23,9 +24,6 @@ Or manually install the required libraries:
 
 ```pip install selenium pandas webdriver-manager
 📂 File Structure
-bash
-Copy
-Edit
 📦 Twitter-Scraper
  ┣ 📜 twitter_scraper.py   # Main script
  ┣ 📜 requirements.txt      # Dependencies
